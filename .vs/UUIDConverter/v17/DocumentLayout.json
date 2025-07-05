@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danie\\source\\repos\\UUIDConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89364C69-2616-44BF-8818-4AB5BF4E77EF}|UUIDConverter.csproj|c:\\users\\danie\\source\\repos\\uuidconverter\\uuidconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89364C69-2616-44BF-8818-4AB5BF4E77EF}|UUIDConverter.csproj|solutionrelative:uuidconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89364C69-2616-44BF-8818-4AB5BF4E77EF}|UUIDConverter.csproj|c:\\users\\danie\\source\\repos\\uuidconverter\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{89364C69-2616-44BF-8818-4AB5BF4E77EF}|UUIDConverter.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Danie\\source\\repos\\UUIDConverter\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Danie\\source\\repos\\UUIDConverter\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-05T20:46:23.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UUIDConverter.csproj",
+              "DocumentMoniker": "C:\\Users\\Danie\\source\\repos\\UUIDConverter\\UUIDConverter.csproj",
+              "RelativeDocumentMoniker": "UUIDConverter.csproj",
+              "ToolTip": "C:\\Users\\Danie\\source\\repos\\UUIDConverter\\UUIDConverter.csproj",
+              "RelativeToolTip": "UUIDConverter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T20:18:38.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

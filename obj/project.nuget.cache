@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nPdC3PBBDsg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danie\\source\\repos\\UUIDConverter\\UUIDConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danie\\.nuget\\packages\\community.powertoys.run.plugin.dependencies\\0.91.0\\community.powertoys.run.plugin.dependencies.0.91.0.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\9.0.0\\microsoft.codeanalysis.netanalyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.556\\stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UUIDConverter", "UUIDConverter.csproj", "{89364C69-2616-44BF-8818-4AB5BF4E77EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Debug|ARM64.Build.0 = Debug|ARM64
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Debug|x64.ActiveCfg = Debug|x64
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Debug|x64.Build.0 = Debug|x64
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Release|ARM64.Build.0 = Release|ARM64
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Release|x64.ActiveCfg = Release|x64
+		{89364C69-2616-44BF-8818-4AB5BF4E77EF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5211EFD3-FD2C-4FB6-8CE2-9F6522F2778E}
+	EndGlobalSection
+EndGlobal

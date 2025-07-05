@@ -1,0 +1,14 @@
+{
+	"ID": "c27733f390ae4056b6e1b012f63045b7",
+	"ActionKeyword": "u",
+	"Disabled": false,
+	"IsGlobal": false,
+	"Name": "UUIDConverter",
+	"Author": "Daniel Blänsdorf",
+	"Version": "1.0.0",
+	"Language": "csharp",
+	"Website": "",
+	"ExecuteFileName": "Community.PowerToys.Run.Plugin.UUIDConverter.dll",
+	"IcoPathDark": "Images\\UUIDConverter.dark.png",
+	"IcoPathLight": "Images\\UUIDConverter.light.png"
+}
